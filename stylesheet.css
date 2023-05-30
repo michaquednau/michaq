@@ -1,0 +1,8 @@
+p {
+    font-family: Helvetica;
+    font-size: 3vh;
+    letter-spacing: .3px;
+    text-align: left;
+    max-width: 40%;
+    margin-top: 10px;
+}
